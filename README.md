@@ -1,7 +1,14 @@
 # Proyecto Profundización: Business intelligence
 
+
+
 **Objetivo:** 
+
 El objetivo de este proyecto fue realizar un análisis exploratorio de datos sobre los listados de Airbnb en la ciudad de Nueva York, utilizando Power BI para visualizar patrones clave y tendencias que afectan la disponibilidad de habitaciones, precios, y reseñas de los huéspedes. A través de este análisis, se busca proporcionar insights accionables que permitan a los anfitriones optimizar sus estrategias de precios, mejorar la experiencia del usuario y maximizar la rentabilidad de sus propiedades.
+
+
+![image](https://github.com/user-attachments/assets/a7d680ab-e232-498b-bf10-6201d66bf00c)
+
 
 <details>
 <summary> ⚙️ Herramientas y Recursos</summary>
@@ -75,7 +82,7 @@ El objetivo de este proyecto fue realizar un análisis exploratorio de datos sob
 
 [4.2 Dashboard](https://github.com/jesolav/Proyecto-5-BI_Airbnb/blob/2e2f8d6fd8671618e51081e7ef4393918deca0b4/3.%20Dashboard/3.1%20Dashboard%20(imagenes).md) 
 
-[4.3 Conclusiones y Recomendaciones]()
+[4.3 Conclusiones y Recomendaciones](https://github.com/jesolav/Proyecto-5-BI_Airbnb/blob/84771edee4cfc1f08aa45833dc7bf0372b0fee7b/4.%20Conclusiones%20y%20Recomendaciones/4.1%20Conclusiones%20y%20Recomendaciones.md)
 
 
 
