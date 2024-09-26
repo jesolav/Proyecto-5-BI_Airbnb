@@ -78,12 +78,13 @@ El objetivo de este proyecto fue realizar un análisis exploratorio de datos sob
 
 ## 💡 [Enlaces de interés:]
 
-[4.1 Presentación](https://drive.google.com/file/d/1gH-QnfK1azEh-6z-nUjyF-hPFQjabpf2/view?usp=drive_link)
+[Presentación](https://drive.google.com/file/d/1gH-QnfK1azEh-6z-nUjyF-hPFQjabpf2/view?usp=drive_link)
 
-[4.2 Dashboard](https://github.com/jesolav/Proyecto-5-BI_Airbnb/blob/2e2f8d6fd8671618e51081e7ef4393918deca0b4/3.%20Dashboard/3.1%20Dashboard%20(imagenes).md) 
+[Video Presentación](https://www.loom.com/share/e8c6665bc4e04047af1cc6e7adf6dadf?sid=e96bde8b-1cc8-46a2-ba8e-11df3072072b)
 
-[4.3 Conclusiones y Recomendaciones](https://github.com/jesolav/Proyecto-5-BI_Airbnb/blob/84771edee4cfc1f08aa45833dc7bf0372b0fee7b/4.%20Conclusiones%20y%20Recomendaciones/4.1%20Conclusiones%20y%20Recomendaciones.md)
+[Dashboard](https://github.com/jesolav/Proyecto-5-BI_Airbnb/blob/2e2f8d6fd8671618e51081e7ef4393918deca0b4/3.%20Dashboard/3.1%20Dashboard%20(imagenes).md) 
 
+[Conclusiones y Recomendaciones](https://github.com/jesolav/Proyecto-5-BI_Airbnb/blob/84771edee4cfc1f08aa45833dc7bf0372b0fee7b/4.%20Conclusiones%20y%20Recomendaciones/4.1%20Conclusiones%20y%20Recomendaciones.md)
 
 
 
